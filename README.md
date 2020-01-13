@@ -14,3 +14,17 @@ Taking the info from the transcription and the pdf and making point in the part 
   * We are willing to provide that infrastructure to the community for free.
   * We are willing to provide the information for free.
   * We can commit to a very simple and low cost structure in the early stages.
+
+## Weather chatbots
+
+### A search
+https://www.google.com/search?q=weather+bot&oq=weather+bot&aqs=chrome..69i57j35i39l2j0l2j69i60j69i65j69i61.1985j0j7&sourceid=chrome&ie=UTF-8
+
+### An example
+https://towardsdatascience.com/how-to-create-a-weather-bot-in-5-minutes-7d83b1052269
+
+### The main problem.
+It's that nobody uses telegram and you have to build it for whasatpp
+
+### The solution.
+Put a human.
